@@ -1,3 +1,7 @@
+---
+layout: post
+title: Markup and XML
+---
 ![](https://sevaccount.github.io/sevaccount.io/images/oxygen.png)
 Recently I used XML for the first time. I was assigned column 1 on page 655 of Charlotte Perkins Stetson’s “The Yellow Wall-paper.” In this project, I used TEI (Text Encoding Initiative), a standardization of XML (eXtensible Markup Language). Part of this process involved using a software called Oxygen, which reminds me of using an IDE when coding. This marked my first exposure to this technology. Ahead I'll be reflecting on the process.
 
